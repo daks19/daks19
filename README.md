@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1b2a,100:0d1117&height=120&section=header&text=Hey%20there!%20I'm%20Dakshan%20%F0%9F%91%8B&fontSize=32&fontColor=58a6ff&fontAlignY=60&animation=fadeIn" alt="Hey there! I'm Dakshan 👋" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Dakshan+%F0%9F%91%8B;CSE+%40+Chennai+Institute+of+Technology;Full-Stack+%7C+Web3+%7C+Embedded+%7C+AI;Building+things+that+matter" alt="Typing SVG" />
+
 </div>
 
 <div align="justify">
@@ -33,9 +35,13 @@ B.E. Computer Science & Engineering student at <strong>Chennai Institute of Tech
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,html,css,react,nextjs,nodejs,express,vite,reactnative&perline=7)](https://skillicons.dev)
+**Languages & Frameworks**
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,prisma,supabase,docker,git,github,vercel,postman,linux,arduino,tailwind&perline=7)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,html,css,react,nextjs,nodejs,express,vite,tailwind&perline=7)](https://skillicons.dev)
+
+**Databases, Tools & Platforms**
+
+[![Tools](https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,prisma,supabase,docker,git,github,vercel,postman,linux,arduino,expo&perline=7)](https://skillicons.dev)
 
 </div>
 
