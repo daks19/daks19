@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Dakshan+👋;CSE+Student+%40+Chennai+Institute+of+Technology;Building+Systems+%7C+Full-Stack+%7C+Web3;Embedded+%7C+IoT+%7C+Applied+AI" alt="Typing SVG" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1b2a,100:0d1117&height=120&section=header&text=Hey%20there!%20I'm%20Dakshan%20%F0%9F%91%8B&fontSize=32&fontColor=58a6ff&fontAlignY=60&animation=fadeIn" alt="Hey there! I'm Dakshan 👋" />
+</div>
 
 <div align="justify">
 
@@ -13,6 +15,8 @@
 <a href="https://github.com/daks19">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Chennai%2C%20India-%F0%9F%87%AE%F0%9F%87%B3-2ea043?style=for-the-badge">
 
 </div>
 
@@ -27,82 +31,13 @@ B.E. Computer Science & Engineering student at <strong>Chennai Institute of Tech
 
 > Tools and technologies I build with and have used across internships, research, and personal projects
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C / C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/solidity-icon.svg" alt="Solidity" width="65" height="65" />
-      <br>Solidity
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/next-icon.svg" alt="Next.js" width="65" height="65" />
-      <br>Next.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/node-icon.svg" alt="Node.js" width="65" height="65" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-      <br>REST API
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="PostgreSQL" width="65" height="65" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Linux" width="65" height="65" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="Cloud" width="65" height="65" />
-      <br>Cloud
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<br>
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,html,css,react,nextjs,nodejs,express,vite,reactnative&perline=7)](https://skillicons.dev)
 
-**More skills:**
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,prisma,supabase,docker,git,github,vercel,postman,linux,arduino,tailwind&perline=7)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,mongodb,redis,prisma,vercel,postman,arduino,linux,tailwind,express,vite,expo,supabase,ipfs&perline=8)](https://skillicons.dev)
+</div>
 
 <br>
 
@@ -116,6 +51,8 @@ B.E. Computer Science & Engineering student at <strong>Chennai Institute of Tech
 ![CCNA](https://img.shields.io/badge/CCNA%20Networking-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32%20%2F%20Embedded%20C-e7352c?style=for-the-badge&logo=espressif&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65c2cb?style=for-the-badge&logo=ipfs&logoColor=white)
 
 ---
 
@@ -236,3 +173,7 @@ React Native + Expo app with real-time device location tracking. Users set a map
 | Anthropic Certified | Anthropic |
 | Google AI-ML for Developers | Google |
 | Global Cybersecurity Certification | LaunchED |
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1b2a,100:0d1117&height=100&section=footer" alt="footer" />
+</div>
