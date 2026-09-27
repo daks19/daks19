@@ -1,30 +1,125 @@
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Dakshan+👋;CSE+Student+%40+Chennai+Institute+of+Technology;Building+Systems+%7C+Full-Stack+%7C+Web3;Embedded+%7C+IoT+%7C+Applied+AI" alt="Typing SVG" />
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f36,100:0d1117&height=160&section=header&text=Dakshan%20Kumar%20S&fontSize=36&fontColor=58a6ff&fontAlignY=55&desc=Systems%20%C2%B7%20Full%E2%80%91Stack%20%C2%B7%20Decentralized%20Architecture&descColor=8b949e&descSize=15&descAlignY=78&animation=fadeIn" alt="Dakshan Kumar S — Systems · Full-Stack · Decentralized Architecture" />
+<div align="justify">
+
+<a href="https://linkedin.com/in/dakshan-k">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:dakshank12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/daks19">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dakshan--k-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dakshan-k)
-[![Email](https://img.shields.io/badge/Email-dakshank12%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dakshank12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-daks19-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/daks19)
-[![Location](https://img.shields.io/badge/Chennai%2C%20India-🇮🇳-2ea043?style=flat-square)](#)
-
-</div>
+<p></p>
+<p align="justify">
+B.E. Computer Science & Engineering student at <strong>Chennai Institute of Technology</strong>. I build systems at the intersection of decentralized infrastructure, full-stack platforms, and applied AI — from Solidity smart contracts and blockchain research to ESP32 IoT firmware and mobile geofencing apps. Interned in Embedded Systems / UAV (Dynamixon Technologies), Cybersecurity (LaunchED), and Federated Learning research (CIT).
+</p>
 
 ---
 
-## `> whoami`
+## My Favorite Tools and Technologies ⚙️
 
-B.E. Computer Science & Engineering student at **Chennai Institute of Technology**, building systems at the intersection of distributed networks, decentralized infrastructure, and applied AI. Research background in **Blockchain-based Federated Learning** (privacy-preserving ML over decentralized nodes). Practical experience across embedded systems, UAV firmware, and full-stack platforms.
+> Tools and technologies I build with and have used across internships, research, and personal projects
 
-Interned in **Embedded Systems / UAV** at Dynamixon Technologies, **Cybersecurity** at LaunchED, and **Federated Learning + Blockchain** research at CIT. Currently shipping across Web3, geospatial systems, IoT telemetry, and mobile.
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C / C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/solidity-icon.svg" alt="Solidity" width="65" height="65" />
+      <br>Solidity
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/next-icon.svg" alt="Next.js" width="65" height="65" />
+      <br>Next.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/node-icon.svg" alt="Node.js" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="PostgreSQL" width="65" height="65" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Linux" width="65" height="65" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="Cloud" width="65" height="65" />
+      <br>Cloud
+    </td>
+  </tr>
+</table>
+
+<br>
+
+**More skills:**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,mongodb,redis,prisma,vercel,postman,arduino,linux,tailwind,express,vite,expo,supabase,ipfs&perline=8)](https://skillicons.dev)
+
+<br>
+
+**AI / ML & Cybersecurity:**
+
+![ML](https://img.shields.io/badge/Machine%20Learning-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs%20%26%20RAG-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-fcd34d?style=for-the-badge&logo=huggingface&logoColor=black)
+![Prompt Eng](https://img.shields.io/badge/Prompt%20Engineering-0ea5e9?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-ff4444?style=for-the-badge&logo=hackthebox&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA%20Networking-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32%20%2F%20Embedded%20C-e7352c?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 
 ---
 
-## Featured Projects
+## Featured Projects 🚀
 
 <table>
 <tr>
@@ -33,7 +128,7 @@ Interned in **Embedded Systems / UAV** at Dynamixon Technologies, **Cybersecurit
 ### 🔗 [TerraLedger](https://github.com/daks19/TerraLedger)
 **Hybrid Blockchain Land Registry**
 
-Authoritative ownership records, escrow transfers, and inheritance flows stored on **Solidity smart contracts** (Polygon Amoy via Hardhat). Spatial boundaries in **PostGIS** with GeoJSON indexing; documents pinned to **IPFS**. Next.js frontend with map-based form workflows, Express + Prisma backend, Redis caching, Dockerized.
+Authoritative ownership records, escrow transfers, and inheritance flows on **Solidity smart contracts** (Polygon Amoy via Hardhat). Spatial boundaries in **PostGIS** with GeoJSON indexing; documents pinned to **IPFS**. Next.js + Express + Prisma + Redis, Dockerized.
 
 `Solidity` `Next.js` `Node.js` `PostgreSQL/PostGIS` `IPFS` `Hardhat` `Docker`
 
@@ -41,9 +136,9 @@ Authoritative ownership records, escrow transfers, and inheritance flows stored 
 <td width="50%" valign="top">
 
 ### 📡 [ChiralNet](https://github.com/daks19/ChiralNet)
-**ESP32 Wi-Fi Signal Telemetry & Heatmap Dashboard**
+**ESP32 Wi-Fi Signal Telemetry & Heatmap**
 
-Distributed ESP32 nodes publish RSSI readings over **MQTT**. A Python/Node.js backend persists data into **SQLite**, while a live Flask dashboard renders a real-time RSSI heatmap overlaid on a configurable floor plan. Auto-refreshes every 5 seconds; supports multi-node layouts.
+Distributed ESP32 nodes publish RSSI readings over **MQTT**. Python/Node.js backend persists into **SQLite**; Flask dashboard renders a live RSSI heatmap over a configurable floor plan. Auto-refreshes every 5 seconds.
 
 `ESP32` `Embedded C` `MQTT` `Python` `SQLite` `IoT`
 
@@ -55,9 +150,9 @@ Distributed ESP32 nodes publish RSSI readings over **MQTT**. A Python/Node.js ba
 ### 📊 [GovGraph](https://github.com/daks19/GovGraph)
 **Open Government Data Analytics Platform**
 
-Multi-sector visualization engine consuming **data.gov.in** REST APIs (Agriculture, Health, Education, Budget, Traffic, Utilities). Vite + React frontend, serverless Express API routes on **Vercel**, session-authenticated admin panel, and sector-specific chart rendering with S-maxage caching.
+Multi-sector visualization engine consuming **data.gov.in** REST APIs. Vite + React frontend, serverless Express routes on **Vercel**, session-authenticated admin panel, sector-specific chart rendering with S-maxage caching.
 
-`TypeScript` `Vite` `React` `Express` `Vercel Serverless` `REST APIs`
+`TypeScript` `Vite` `React` `Express` `Vercel Serverless`
 
 </td>
 <td width="50%" valign="top">
@@ -65,7 +160,7 @@ Multi-sector visualization engine consuming **data.gov.in** REST APIs (Agricultu
 ### 🛎️ [TraveRing](https://github.com/daks19/TraveRing)
 **Proximity Alert & Geofencing Engine**
 
-React Native + Expo app with real-time device location tracking. Users set a map waypoint and define a radius; a continuous background geofence checks proximity and fires a push notification on entry. Auto dark/light mode. Works with Expo Go without requiring a native build.
+React Native + Expo app with real-time device location tracking. Users set a map waypoint and define a radius; continuous background geofence fires a push notification on entry. Auto dark/light mode, works on Expo Go.
 
 `React Native` `Expo` `JavaScript` `Geolocation API`
 
@@ -75,81 +170,65 @@ React Native + Expo app with real-time device location tracking. Users set a map
 
 ---
 
-## Research
+## Research 📄
 
-📄 **A Taxonomical Survey of Blockchain-Based Federated Learning: Architectures, Privacy Mechanisms, and Applications**
-> Systematic classification of BCFL architectures — on-chain model aggregation, differential privacy, and Byzantine-fault-tolerant consensus mechanisms. Quantified ~60% improvement in adversarial attack resilience across reviewed frameworks.
+**A Taxonomical Survey of Blockchain-Based Federated Learning: Architectures, Privacy Mechanisms, and Applications**
+
+> Systematic classification of BCFL architectures — on-chain model aggregation, differential privacy, and Byzantine-fault-tolerant consensus. Quantified ~60% improvement in adversarial attack resilience across reviewed frameworks.
 
 *CIT Research Internship · 2025*
 
 ---
 
-## Tech Stack
+## Github Stats 📊
 
-**Languages & Web**
+<details>
+  <summary>📈 GitHub Profile Stats</summary>
+  <br>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=daks19&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&count_private=true" alt="GitHub Stats" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daks19&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" />
+  </div>
+</details>
 
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599c?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white)
+<details>
+  <summary>🔥 Streak Stats</summary>
+  <br>
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=daks19&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff4444&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+  </div>
+</details>
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
+<details>
+  <summary>📊 Activity Graph</summary>
+  <br>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=daks19&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true" alt="Activity Graph" />
+  </div>
+</details>
 
-**Databases & Infrastructure**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
-
-**Systems, Cybersecurity & Embedded**
-
-![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/CCNA%20Networking-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-ff4444?style=flat-square&logo=hackthebox&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32%20%2F%20Embedded%20C-e7352c?style=flat-square&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-f0d060?style=flat-square&logo=hardhat&logoColor=black)
-![IPFS](https://img.shields.io/badge/IPFS-65c2cb?style=flat-square&logo=ipfs&logoColor=white)
-
-**AI / ML**
-
-![ML](https://img.shields.io/badge/ML%20%2F%20Deep%20Learning-ff6f00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-fcd34d?style=flat-square&logo=huggingface&logoColor=black)
-![LLMs](https://img.shields.io/badge/LLMs%20%26%20RAG-7c3aed?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0ea5e9?style=flat-square&logo=anthropic&logoColor=white)
+<details>
+  <summary>🏆 GitHub Trophy</summary>
+  <br>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=daks19&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophy" />
+  </div>
+</details>
 
 ---
 
-## GitHub Analytics
+## Experience 💼
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=daks19&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&count_private=true" alt="Dakshan's GitHub Stats" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daks19&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Dakshan's Top Languages" />
-
-</div>
+| Role | Organization | Focus |
+|---|---|---|
+| R&D Intern | Dynamixon Technologies | Embedded Systems & UAV Technology |
+| Cybersecurity Intern | LaunchED | Network traffic analysis, vulnerability exploitation, firewall config |
+| Research Intern | CIT Research | Blockchain-based Federated Learning Architectures |
 
 ---
 
-## Certifications
+## Certifications 🎓
 
 | Credential | Issuer |
 |---|---|
@@ -157,21 +236,3 @@ React Native + Expo app with real-time device location tracking. Users set a map
 | Anthropic Certified | Anthropic |
 | Google AI-ML for Developers | Google |
 | Global Cybersecurity Certification | LaunchED |
-
----
-
-## Experience
-
-| Role | Organization | Focus |
-|---|---|---|
-| R&D Intern | Dynamixon Technologies | Embedded Systems & UAV Technology |
-| Cybersecurity Intern | LaunchED | Network traffic analysis, vuln. exploitation, firewall config |
-| Research Intern | CIT Research | Federated Learning + Blockchain Architectures |
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f36,100:0d1117&height=100&section=footer" alt="footer" />
-
-</div>
