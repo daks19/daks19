@@ -20,12 +20,17 @@
 
 </div>
 
+---
+
+## 🧑‍💻 About Me
+
+B.E. Computer Science & Engineering @ **Chennai Institute of Technology**. I build across the full stack — from Solidity smart contracts and decentralized systems to IoT telemetry, applied ML, and autonomous developer tooling.
+
+Research background in **Blockchain-based Federated Learning** (CIT Research, 2025). Interned in **Embedded Systems & UAV** at Dynamixon Technologies and **Cybersecurity** at LaunchED.
 
 ---
 
-## My Favorite Tools and Technologies ⚙️
-
-> Tools and technologies I build with and have used across internships, research, and personal projects
+## 🛠️ Tech Stack
 
 <table>
   <tr>
@@ -68,14 +73,6 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="65" height="65" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="65" height="65" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" alt="Solidity" width="65" height="65" />
       <br>Solidity
     </td>
@@ -88,12 +85,6 @@
       <br>Next.js
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
       <br>Node.js
     </td>
@@ -101,21 +92,19 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="65" height="65" />
       <br>Express
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="65" height="65" />
-      <br>Vite
-    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="65" height="65" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
       <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="65" height="65" />
@@ -130,22 +119,34 @@
 
 <br>
 
-**AI / ML & Cybersecurity:**
-
 ![ML](https://img.shields.io/badge/Machine%20Learning-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs%20%26%20RAG-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-fcd34d?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Prompt Eng](https://img.shields.io/badge/Prompt%20Engineering-0ea5e9?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-ff4444?style=for-the-badge&logo=hackthebox&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA%20Networking-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32%20%2F%20Embedded%20C-e7352c?style=for-the-badge&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65c2cb?style=for-the-badge&logo=ipfs&logoColor=white)
 
 ---
 
-## Featured Projects 🚀
+## 🔨 Currently Building
+
+<table>
+<tr>
+<td valign="top">
+
+### ⚙️ CommitForge / Shipwright &nbsp; `private · in progress`
+**Autonomous Developer Agent**
+
+An AI-powered agent that automates the full software delivery loop — intelligent commit generation, branch management, code-aware task orchestration, and automated PR workflows. Built to reduce cognitive overhead in solo developer and small-team environments.
+
+`Python` `LLMs` `Agentic AI` `Git Automation` `Developer Tooling`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -154,19 +155,19 @@
 ### 🔗 [TerraLedger](https://github.com/daks19/TerraLedger)
 **Hybrid Blockchain Land Registry**
 
-Authoritative ownership records, escrow transfers, and inheritance flows on **Solidity smart contracts** (Polygon Amoy via Hardhat). Spatial boundaries in **PostGIS** with GeoJSON indexing; documents pinned to **IPFS**. Next.js + Express + Prisma + Redis, Dockerized.
+Authoritative ownership records, escrow transfers, and inheritance flows on **Solidity smart contracts** (Polygon Amoy / Hardhat). Spatial boundaries in **PostGIS**; documents pinned to **IPFS**. Next.js + Express + Prisma + Redis, Dockerized.
 
-`Solidity` `Next.js` `Node.js` `PostgreSQL/PostGIS` `IPFS` `Hardhat` `Docker`
+`Solidity` `Next.js` `Node.js` `PostgreSQL/PostGIS` `IPFS` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📡 [ChiralNet](https://github.com/daks19/ChiralNet)
-**ESP32 Wi-Fi Signal Telemetry & Heatmap**
+**Distributed Wi-Fi Signal Telemetry & Heatmap**
 
-Distributed ESP32 nodes publish RSSI readings over **MQTT**. Python/Node.js backend persists into **SQLite**; Flask dashboard renders a live RSSI heatmap over a configurable floor plan. Auto-refreshes every 5 seconds.
+ESP32 nodes publish RSSI readings over **MQTT** to a Python/Node.js backend. A live Flask dashboard renders an RSSI heatmap over a configurable floor plan, auto-refreshing every 5 seconds.
 
-`ESP32` `Embedded C` `MQTT` `Python` `SQLite` `IoT`
+`ESP32` `Embedded C` `MQTT` `Python` `SQLite`
 
 </td>
 </tr>
@@ -176,9 +177,9 @@ Distributed ESP32 nodes publish RSSI readings over **MQTT**. Python/Node.js back
 ### 📊 [GovGraph](https://github.com/daks19/GovGraph)
 **Open Government Data Analytics Platform**
 
-Multi-sector visualization engine consuming **data.gov.in** REST APIs. Vite + React frontend, serverless Express routes on **Vercel**, session-authenticated admin panel, sector-specific chart rendering with S-maxage caching.
+Multi-sector visualization engine consuming **data.gov.in** REST APIs across Agriculture, Health, Education, and Budget. Vite + React frontend, serverless Express on **Vercel**, session-authenticated admin panel.
 
-`TypeScript` `Vite` `React` `Express` `Vercel Serverless`
+`TypeScript` `React` `Express` `Vercel Serverless`
 
 </td>
 <td width="50%" valign="top">
@@ -186,7 +187,7 @@ Multi-sector visualization engine consuming **data.gov.in** REST APIs. Vite + Re
 ### 🛎️ [TraveRing](https://github.com/daks19/TraveRing)
 **Proximity Alert & Geofencing Engine**
 
-React Native + Expo app with real-time device location tracking. Users set a map waypoint and define a radius; continuous background geofence fires a push notification on entry. Auto dark/light mode, works on Expo Go.
+React Native + Expo app with continuous background geofencing. Users set a map waypoint and radius; a push notification fires on zone entry. Auto dark/light mode, runs on Expo Go without a native build.
 
 `React Native` `Expo` `JavaScript` `Geolocation API`
 
@@ -196,7 +197,7 @@ React Native + Expo app with real-time device location tracking. Users set a map
 
 ---
 
-## Research 📄
+## 📄 Research
 
 **A Taxonomical Survey of Blockchain-Based Federated Learning: Architectures, Privacy Mechanisms, and Applications**
 
@@ -206,7 +207,7 @@ React Native + Expo app with real-time device location tracking. Users set a map
 
 ---
 
-## Github Stats 📊
+## 📊 GitHub Stats
 
 <details>
   <summary>📈 GitHub Profile Stats</summary>
@@ -244,7 +245,7 @@ React Native + Expo app with real-time device location tracking. Users set a map
 
 ---
 
-## Experience 💼
+## 💼 Experience
 
 | Role | Organization | Focus |
 |---|---|---|
@@ -254,7 +255,7 @@ React Native + Expo app with real-time device location tracking. Users set a map
 
 ---
 
-## Certifications 🎓
+## 🎓 Certifications
 
 | Credential | Issuer |
 |---|---|
@@ -262,6 +263,26 @@ React Native + Expo app with real-time device location tracking. Users set a map
 | Anthropic Certified | Anthropic |
 | Google AI-ML for Developers | Google |
 | Global Cybersecurity Certification | LaunchED |
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/dakshan-k">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:dakshank12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/daks19">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1b2a,100:0d1117&height=100&section=footer" alt="footer" />
