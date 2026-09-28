@@ -13,10 +13,6 @@
 <a href="mailto:dakshank12@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/daks19">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
 </div>
 
@@ -209,34 +205,21 @@ React Native + Expo app with continuous background geofencing. Users set a map w
 
 ## 📊 GitHub Stats
 
-<details>
-  <summary>📈 GitHub Profile Stats</summary>
-  <br>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daks19&theme=github_dark" alt="GitHub Profile Summary" />
-  </div>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daks19&theme=github_dark" alt="Repos Per Language" />
-    &nbsp;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daks19&theme=github_dark" alt="Most Commit Language" />
-  </div>
-</details>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daks19&theme=github_dark" alt="GitHub Profile Summary" />
+</div>
 
-<details>
-  <summary>🔥 Streak Stats</summary>
-  <br>
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=daks19&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff4444&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
-  </div>
-</details>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daks19&theme=github_dark" alt="Repos Per Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daks19&theme=github_dark" alt="Most Commit Language" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=daks19&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff4444&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+</div>
 
-<details>
-  <summary>📊 Contribution Graph</summary>
-  <br>
-  <div align="center">
-    <img src="https://ghchart.rshah.org/58a6ff/daks19" alt="Dakshan's Contribution Graph" />
-  </div>
-</details>
+<div align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/daks19" alt="Contribution Graph" />
+</div>
 
 ---
 
@@ -259,26 +242,3 @@ React Native + Expo app with continuous background geofencing. Users set a map w
 | Google AI-ML for Developers | Google |
 | Global Cybersecurity Certification | LaunchED |
 
----
-
-## 📫 Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/dakshan-k">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:dakshank12@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/daks19">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1b2a,100:0d1117&height=100&section=footer" alt="footer" />
-</div>
