@@ -20,9 +20,11 @@
 
 ## 🧑‍💻 About Me
 
-B.E. Computer Science & Engineering @ **Chennai Institute of Technology**. I build across the full stack — from Solidity smart contracts and decentralized systems to IoT telemetry, applied ML, and autonomous developer tooling.
-
-Research background in **Blockchain-based Federated Learning** (CIT Research, 2025). Interned in **Embedded Systems & UAV** at Dynamixon Technologies and **Cybersecurity** at LaunchED.
+- 🎓 Computer Science undergrad at **Chennai Institute of Technology** (2024 – 2028)
+- 🌀 **Terminally curious, mildly distracted** — AI/ML, cybersecurity, DevOps, systems, embedded tech... if it looks interesting, I'm probably trying to figure out how it works.
+- 💼 R&D Intern @ **Dynamixon Technologies** — worked with embedded systems and UAV technology
+- 🔬 Research Intern @ **Chennai Institute of Technology** — authored a review paper on Blockchain-Based Federated Learning
+- 🛡️ Cybersecurity Intern @ **LaunchED** — network traffic analysis, vulnerability exploitation, malware analysis, and firewall configuration
 
 ---
 
