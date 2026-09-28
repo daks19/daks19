@@ -206,19 +206,13 @@ React Native + Expo app with continuous background geofencing. Users set a map w
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daks19&theme=github_dark" alt="GitHub Profile Summary" />
+  <img src="https://streak-stats.demolab.com?user=daks19&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b6b&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daks19&theme=github_dark" alt="Repos Per Language" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daks19&theme=github_dark" alt="Most Commit Language" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=daks19&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff4444&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
-</div>
+<br>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/daks19" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/daks19/daks19/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </div>
 
 ---
