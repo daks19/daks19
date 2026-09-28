@@ -17,15 +17,9 @@
 <a href="https://github.com/daks19">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Chennai%2C%20India-%F0%9F%87%AE%F0%9F%87%B3-2ea043?style=for-the-badge">
 
 </div>
 
-<p></p>
-<p align="justify">
-B.E. Computer Science & Engineering student at <strong>Chennai Institute of Technology</strong>. I build systems at the intersection of decentralized infrastructure, full-stack platforms, and applied AI — from Solidity smart contracts and blockchain research to ESP32 IoT firmware and mobile geofencing apps. Interned in Embedded Systems / UAV (Dynamixon Technologies), Cybersecurity (LaunchED), and Federated Learning research (CIT).
-</p>
 
 ---
 
