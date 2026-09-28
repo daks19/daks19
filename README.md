@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="justify">
+<div align="center">
 
 <a href="https://linkedin.com/in/dakshan-k">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
