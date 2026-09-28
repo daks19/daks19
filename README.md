@@ -213,9 +213,12 @@ React Native + Expo app with continuous background geofencing. Users set a map w
   <summary>📈 GitHub Profile Stats</summary>
   <br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=daks19&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daks19&theme=github_dark" alt="GitHub Profile Summary" />
+  </div>
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daks19&theme=github_dark" alt="Repos Per Language" />
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daks19&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daks19&theme=github_dark" alt="Most Commit Language" />
   </div>
 </details>
 
@@ -228,18 +231,10 @@ React Native + Expo app with continuous background geofencing. Users set a map w
 </details>
 
 <details>
-  <summary>📊 Activity Graph</summary>
+  <summary>📊 Contribution Graph</summary>
   <br>
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=daks19&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true" alt="Activity Graph" />
-  </div>
-</details>
-
-<details>
-  <summary>🏆 GitHub Trophy</summary>
-  <br>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=daks19&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophy" />
+    <img src="https://ghchart.rshah.org/58a6ff/daks19" alt="Dakshan's Contribution Graph" />
   </div>
 </details>
 
