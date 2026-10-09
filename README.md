@@ -202,7 +202,7 @@ React Native + Expo app with continuous background geofencing. Users set a map w
 
 > Systematic classification of BCFL architectures — on-chain model aggregation, differential privacy, and Byzantine-fault-tolerant consensus. Quantified ~60% improvement in adversarial attack resilience across reviewed frameworks.
 
-*CIT Research Internship · 2025*
+*Chennai Institute of Technology Research Internship · 2025*
 
 ---
 
@@ -226,7 +226,7 @@ React Native + Expo app with continuous background geofencing. Users set a map w
 |---|---|---|
 | R&D Intern | Dynamixon Technologies | Embedded Systems & UAV Technology |
 | Cybersecurity Intern | LaunchED | Network traffic analysis, vulnerability exploitation, firewall config |
-| Research Intern | CIT Research | Blockchain-based Federated Learning Architectures |
+| Research Intern | Chennai Institute of Technology | Blockchain-based Federated Learning Architectures |
 
 ---
 
