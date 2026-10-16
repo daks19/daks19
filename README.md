@@ -121,7 +121,7 @@
 ![ML](https://img.shields.io/badge/Machine%20Learning-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs%20%26%20RAG-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-fcd34d?style=for-the-badge&logo=huggingface&logoColor=black)
-![Prompt Eng](https://img.shields.io/badge/Prompt%20Engineering-0ea5e9?style=for-the-badge&logo=anthropic&logoColor=white)
+![Harness Eng](https://img.shields.io/badge/Harness%20Engineering-0ea5e9?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-ff4444?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ---
