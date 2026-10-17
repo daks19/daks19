@@ -132,7 +132,7 @@
 <tr>
 <td valign="top">
 
-### ⚙️ CommitForge / Shipwright &nbsp; `private · in progress`
+### ⚙️ Git2 &nbsp; `private · in progress`
 **Autonomous Developer Agent**
 
 An AI-powered agent that automates the full software delivery loop — intelligent commit generation, branch management, code-aware task orchestration, and automated PR workflows. Built to reduce cognitive overhead in solo developer and small-team environments.
