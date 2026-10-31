@@ -183,13 +183,6 @@ Multi-sector visualization engine consuming **data.gov.in** REST APIs across Agr
 </td>
 <td width="50%" valign="top">
 
-### 🛎️ [TraveRing](https://github.com/daks19/TraveRing)
-**Proximity Alert & Geofencing Engine**
-
-React Native + Expo app with continuous background geofencing. Users set a map waypoint and radius; a push notification fires on zone entry. Auto dark/light mode, runs on Expo Go without a native build.
-
-`React Native` `Expo` `JavaScript` `Geolocation API`
-
 </td>
 </tr>
 </table>
