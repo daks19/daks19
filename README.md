@@ -34,15 +34,15 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C/C++" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C/C++" width="65" height="65" />
       <br>C / C++
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
@@ -50,7 +50,7 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
     <td align="center" width="96">
@@ -58,17 +58,17 @@
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="REST API" width="65" height="65" />
       <br>REST API
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
@@ -76,7 +76,7 @@
       <br>Solidity
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
@@ -110,7 +110,7 @@
       <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="SQL" width="65" height="65" />
       <br>SQL
     </td>
   </tr>
@@ -121,7 +121,7 @@
 ![ML](https://img.shields.io/badge/Machine%20Learning-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs%20%26%20RAG-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-fcd34d?style=for-the-badge&logo=huggingface&logoColor=black)
-![Harness Eng](https://img.shields.io/badge/Harness%20Engineering-0ea5e9?style=for-the-badge&logo=anthropic&logoColor=white)
+![Prompt Eng](https://img.shields.io/badge/Prompt%20Engineering-0ea5e9?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-ff4444?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ---
@@ -132,7 +132,7 @@
 <tr>
 <td valign="top">
 
-### ⚙️ Git2 &nbsp; `private · in progress`
+### ⚙️ CommitForge / Shipwright &nbsp; `private · in progress`
 **Autonomous Developer Agent**
 
 An AI-powered agent that automates the full software delivery loop — intelligent commit generation, branch management, code-aware task orchestration, and automated PR workflows. Built to reduce cognitive overhead in solo developer and small-team environments.
@@ -183,6 +183,13 @@ Multi-sector visualization engine consuming **data.gov.in** REST APIs across Agr
 </td>
 <td width="50%" valign="top">
 
+### 🛎️ [TraveRing](https://github.com/daks19/TraveRing)
+**Proximity Alert & Geofencing Engine**
+
+React Native + Expo app with continuous background geofencing. Users set a map waypoint and radius; a push notification fires on zone entry. Auto dark/light mode, runs on Expo Go without a native build.
+
+`React Native` `Expo` `JavaScript` `Geolocation API`
+
 </td>
 </tr>
 </table>
@@ -195,7 +202,7 @@ Multi-sector visualization engine consuming **data.gov.in** REST APIs across Agr
 
 > Systematic classification of BCFL architectures — on-chain model aggregation, differential privacy, and Byzantine-fault-tolerant consensus. Quantified ~60% improvement in adversarial attack resilience across reviewed frameworks.
 
-*Chennai Institute of Technology Research Internship · 2025*
+*CIT Research Internship · 2025*
 
 ---
 
@@ -219,7 +226,7 @@ Multi-sector visualization engine consuming **data.gov.in** REST APIs across Agr
 |---|---|---|
 | R&D Intern | Dynamixon Technologies | Embedded Systems & UAV Technology |
 | Cybersecurity Intern | LaunchED | Network traffic analysis, vulnerability exploitation, firewall config |
-| Research Intern | Chennai Institute of Technology | Blockchain-based Federated Learning Architectures |
+| Research Intern | CIT Research | Blockchain-based Federated Learning Architectures |
 
 ---
 
